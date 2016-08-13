@@ -1,27 +1,21 @@
-# Laravel PHP Framework
+Sample code untuk artikel "Membuat Fitur Response Time dari Nol di Laravel".
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+> Kebanyakan buku Laravel berbahasa Indonesia bahasan nya ngga jauh dari CRUD dasar, buat newbie. 
+> 
+> Mau yang beda?
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Baca buku [Menyelami Framework Laravel](https://leanpub.com/bukularavel). Berisi:
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+* 15 Bab panduan komprehensif dan aplikatif
+* 1000+ halaman
+* Sample Code
+* Membahas topik-topik lanjutan di Laravel
+* Case Study: E-Commerce
+* Ada paket konsultasi (jika dibutuhkan). Jadi, bisa konsultasi langsung dengan penulis ketika stuck.
 
-## Official Documentation
+Detail buku, daftar isi dan download di [https://leanpub.com/bukularavel](https://leanpub.com/bukularavel)
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+[![Menyelami Framework Laravel](https://s3.amazonaws.com/titlepages.leanpub.com/bukularavel/hero?1466666494)](https://leanpub.com/bukularavel)
 
-## Contributing
+P.S: Buku ini lebih cocok untuk yang sudah punya dasar Laravel. Jika Anda baru belajar Laravel, sebaiknya membaca buku [Seminggu Belajar Laravel](https://leanpub.com/seminggubelajarlaravel).
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
